@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506029035359",
+    "firebase_url": "https://scenes-android-15c0b.firebaseio.com",
+    "project_id": "scenes-android-15c0b",
+    "storage_bucket": "scenes-android-15c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506029035359:android:9c8a106ae1b086e7",
+        "android_client_info": {
+          "package_name": "com.inasweaterpoorlyknit.learnopengl_androidport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506029035359-j80huh7o9kafdk8296flusfdn5f703el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHRDJbqadMrm2v_WSx9HyIRaE9pxxTU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506029035359-j80huh7o9kafdk8296flusfdn5f703el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
